@@ -132,17 +132,11 @@ justify-content: center;
   text-decoration: underline;
 }
 .xoz{
-  width: 80%;
-  height: 30px;
   color: grey;
-  display: flex;
-  justify-content: center;
   margin-top: 50px;
   font-size: 20px;
 }
 .asq{
-  justify-content: center;
-  display: flex;
 }
 
 
