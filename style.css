@@ -133,10 +133,19 @@ justify-content: center;
 }
 .xoz{
   color: grey;
-  margin-top: 50px;
+  margin-top: 70px;
   font-size: 20px;
+  max-width: 1230px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  text-align: center;
 }
 .asq{
+  margin-top: 70px;
+}
+.osnovn{
+  margin-top: 30px;
 }
 
 
